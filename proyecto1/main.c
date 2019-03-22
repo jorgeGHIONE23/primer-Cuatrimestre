@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*
 void saludar(void);
 int dameNumero(void);
 float sacarPromedio(int suma,int cantidad);
-void esPrimo(int numero);
-int main()
+void esPrimo(int numero);*/
+int main()/*
 {
     int edad;
     int contador;
@@ -28,7 +28,7 @@ int main()
 
     //ingresar 5 numeros y devolver el promedio de las mismas
 
-
+/*
     contador=0;
     suma=0;
     float promedio;
@@ -70,4 +70,28 @@ float sacarPromedio(int suma,int cantidad)
     float promedio;
     promedio = (float)suma/cantidad;
     return promedio;
+}*/
+{
+int numero;
+char letra;
+char palabra[10];
+
+    printf("ingrese una palabra:");
+    scanf("%s", & palabra);
+    printf("la palabra es: %s" , palabra);
+
+  /*printf("ingrese un numero:");
+    scanf("%d",&numero);
+
+    printf("ingrese una letra: ");
+  /*fflush(stdin);*/
+/*setbuf(stdin, NULL);
+    scanf("%c", &letra);
+
+    printf("el numero es : %d\nLa letra es : %c", numero, letra); */
+    system("pause");
+return 0 ;
+
 }
+
+
