@@ -16,20 +16,3 @@
 	<string.h>
 	"biblioteca.h"
 
-1556290302 source:c:\users\alumno\desktop\primer-cuatrimestre\abm productos\biblioteca.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	"biblioteca.h"
-
-1556819352 c:\users\alumno\desktop\primer-cuatrimestre\abm productos\biblioteca.h
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
-1556290343 source:c:\users\alumno\desktop\primer-cuatrimestre\abm productos\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	"biblioteca.h"
-
